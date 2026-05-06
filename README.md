@@ -21,4 +21,6 @@ Eliminar las horas de carga manual y los errores humanos al cruzar el stock fís
 
 ## 📸 Demostración Visual
 
-**[¡ATENCIÓN! ARRASTRÁ TUS DOS FOTOS ACÁ]**
+<img width="6048" height="8064" alt="IMG_4579" src="https://github.com/user-attachments/assets/c1846609-dd90-462a-9ff5-8bc001cccd04" />
+<img width="2419" height="3226" alt="AUDIT_IMG_4579" src="https://github.com/user-attachments/assets/45c62f3a-4ab6-4730-af2f-36c56bbc5b2c" />
+
