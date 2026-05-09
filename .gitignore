@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Archivos de configuración local (con rutas privadas)
+config.py
+
+# Datos y Fotos del Almacén (Confidencial)
+fotos_a_procesar/*
+!fotos_a_procesar/.gitkeep
+debug_recortes/*
+!debug_recortes/.gitkeep
+debug_fallos_lectura/*
+!debug_fallos_lectura/.gitkeep
+
+# Reportes y Bases de Datos
+*.xlsx
+!ejemplo_datos_falsos/Audit_Rot_Ejemplo.xlsx
+metricas_historico/*
+!metricas_historico/.gitkeep
+*.log
+
+# Modelos y Entrenamiento (Muy pesados para Git, usar Releases)
+runs/
+kaggle/
+train/
+valid/
+modelo_ocr_custom/
+*.pt
+
+# Streamlit
+.streamlit/
+
+# OS Files
+.DS_Store
+Thumbs.db
