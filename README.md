@@ -59,7 +59,15 @@ Este repositorio contiene datos "Dummy" para proteger la confidencialidad. Para 
    ```
    *Esto generará un reporte de discrepancias comparado con la base falsa `Audit_Rot_Ejemplo.xlsx`.*
 
-5. **Lanzar el Dashboard Operativo:**
+   Ejemplo:
+   Foto sin procesar
+   <img width="6048" height="8064" alt="IMG_4579" src="https://github.com/user-attachments/assets/08242142-8b2f-4ce9-a700-85800d2f9292" />
+
+   Foto procesada
+   <img width="2419" height="3226" alt="AUDIT_IMG_4579" src="https://github.com/user-attachments/assets/da96971d-b046-4acd-9510-5b2dff56ef68" />
+
+
+6. **Lanzar el Dashboard Operativo:**
    ```bash
    python -m streamlit run app.py
    ```
